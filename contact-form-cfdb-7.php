@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin name: Lead Magnet
+Plugin name: Lead Magnet Pro Version
 Description: Save and manage Contact Form 7 messages. Never lose important data. Lead Magnet plugin is an add-on for the Contact Form 7 plugin.
 Author: WebNX
 Author URI: https://www.webnx.in/
